@@ -107,3 +107,10 @@ Tool: Microsoft Power BI
 Data Modeling: Measures, relationships, slicers, filters
 
 Visuals: Line charts, bar charts, KPI cards, tables, slicers
+
+<img src="C:\Users\khare\OneDrive\Desktop\powerbi projects\Screenshot 2025-06-26 164243.png" width=1200>
+
+<img src="C:\Users\khare\OneDrive\Desktop\powerbi projects\Screenshot 2025-06-26 234958.png" width=1200>
+
+
+
