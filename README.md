@@ -1,6 +1,6 @@
 # Adventure-Works-Bike-Sales
 
-<img src="https://www.bikemag.com/.image/t_share/MjA5NTg3NTcxMDIwMjc3Mzk4/p6pb23004499.jpg" width=1200>
+<img src="https://www.bikemag.com/.image/t_share/MjA5NTg3NTcxMDIwMjc3Mzk4/p6pb23004499.jpg" width=1000>
 
 📌 Overview
 
@@ -108,9 +108,9 @@ Data Modeling: Measures, relationships, slicers, filters
 
 Visuals: Line charts, bar charts, KPI cards, tables, slicers
 
-<img src="C:\Users\khare\OneDrive\Desktop\powerbi projects\Screenshot 2025-06-26 164243.png" width=1200>
+<img src="C:\Users\khare\OneDrive\Desktop\powerbi projects\Screenshot 2025-06-26 164243.png" width=1000>
 
-<img src="C:\Users\khare\OneDrive\Desktop\powerbi projects\Screenshot 2025-06-26 234958.png" width=1200>
+<img src="C:\Users\khare\OneDrive\Desktop\powerbi projects\Screenshot 2025-06-26 234958.png" width=1000>
 
 
 
