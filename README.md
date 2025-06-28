@@ -108,9 +108,8 @@ Data Modeling: Measures, relationships, slicers, filters
 
 Visuals: Line charts, bar charts, KPI cards, tables, slicers
 
-<img src="C:\Users\khare\OneDrive\Desktop\powerbi projects\Screenshot 2025-06-26 164243.png" width=1000>
+<img src="https://github.com/SwikritiKhare/Adventure-Works-Bike-Sales/blob/main/Raw%20Files/Screenshot%202025-06-28%20100502.png" width=800>
 
-<img src="C:\Users\khare\OneDrive\Desktop\powerbi projects\Screenshot 2025-06-26 234958.png" width=1000>
 
 
 
