@@ -109,6 +109,7 @@ Data Modeling: Measures, relationships, slicers, filters
 Visuals: Line charts, bar charts, KPI cards, tables, slicers
 
 <img src="https://github.com/SwikritiKhare/Adventure-Works-Bike-Sales/blob/main/Raw%20Files/Screenshot%202025-06-28%20100502.png" width=800>
+<img src="https://github.com/SwikritiKhare/Adventure-Works-Bike-Sales/blob/main/Raw%20Files/Screenshot%202025-06-28%20091818.png" width=800>
 
 
 
